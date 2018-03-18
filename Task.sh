@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ###Run from genymotion tools as ::::: bash /c/Strace/Task.sh /c/Strace/APKfiles/
+### add aapt and adb to path 
 
 for app in $1/*
 do
